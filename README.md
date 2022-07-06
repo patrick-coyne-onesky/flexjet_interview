@@ -12,6 +12,8 @@ Full API details can be found at https://restcountries.com/#api-endpoints-v3-all
 
 b. The country detail screen should show the name of the country, its capital, population, area, region and sub-region.
 
+You can use any type of architecture and Android components such Activities, fragments, etc
+
 
 
 <img width="359" alt="Screen Shot 2022-07-06 at 10 18 08 AM" src="https://user-images.githubusercontent.com/89773721/177593626-4a3981ce-a336-413e-abe4-ddd137dfcd9e.png">
