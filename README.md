@@ -1,11 +1,15 @@
 # Interview Sample app
 
 1 Create a screen that contains a list of countries.
+
 a. A list of countries can be found here https://github.com/patrick-coyne-onesky/flexjet_interview/
+
 2. When a country is selected transition to a country detail screen.
+
 a. Data for the detail screen should be retrieved by making an HTTP GET to
 https://restcountries.com/v3.1/name/{countryName} where “{countryName}” is the name of the country from the list (ex. https://restcountries.com/v3.1/name/Argentina).
 Full API details can be found at https://restcountries.com/#api-endpoints-v3-all
+
 b. The country detail screen should show the name of the country, its capital, population, area, region and sub-region.
 
 
